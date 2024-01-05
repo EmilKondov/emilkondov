@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Check out my first game. Live demo here ---> 
+Check out my first game. Live demo here --->  ![RockPaperScissor](https://github.com/EmilKondov/emilkondov/assets/122922427/de677625-192c-4c93-b980-2cb815dcbea4)
+
